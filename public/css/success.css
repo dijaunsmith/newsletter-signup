@@ -1,0 +1,14 @@
+.message{
+    padding: 6% 2% 2%;
+}
+.message-title{
+    padding: 2.5% 0;
+    text-align: left;
+    font-weight: 400;
+}
+.large-container{
+    background-color: rgb(219, 212, 212);
+}
+.center{
+    margin: 1% 0 0 0;
+}
